@@ -24,7 +24,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## How to access my website
-You can clone the [Repository](https://github.com/mornicamwende/GitHub-Search.git) and open the terminal and do the following instruction
+You can clone the [Repository](https://github.com/mornicamwende/GitHubSearch.git) and open the terminal and do the following instruction
 ```
 $ git clone link
 $ cd directory-name
